@@ -1,4 +1,5 @@
-<img src="https://i.imgur.com/XWeDLUL.jpeg">
+<img src="https://i.imgur.com/Hht6bvl.jpg" height="80">
+![](https://github-readme-stats.vercel.app/api/?username=IamBisrutPyne)
 <br>
 <hr>
 <hr>
@@ -13,6 +14,7 @@
   <b><li>Cybersecurity Enthusiast</li></b>
   <b><li>High-School Student</li></b>
 </ul>
+<br>
 <br>
 <a href="https://iambisrutpyne.github.io"><img align="center" src="https://i.imgur.com/tUEeB25.png" height="80"></img></a>
 <br>
