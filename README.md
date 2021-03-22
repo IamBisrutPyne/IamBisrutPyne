@@ -1,7 +1,7 @@
 ### Hi there, I'm [Bisrut!](https://IamBisrutPyne.github.io) 👋
 
 <a href="https://codepen.io/TheWebDevKing">
-  <img align="left" alt="Bisrut Pyne | CodePen" width="20px" src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Black-Large.png" />
+  <img align="left" alt="Bisrut Pyne | CodePen" width="20px" src="https://i.imgur.com/yq7iqFa.png" />
 </a>
 
 <br />
