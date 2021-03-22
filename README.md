@@ -1,7 +1,13 @@
 ### Hi there, I'm [Bisrut!](https://IamBisrutPyne.github.io) 👋
 
 <a href="https://codepen.io/TheWebDevKing">
-  <img align="left" alt="Bisrut Pyne | CodePen" width="20px" src="https://i.imgur.com/yq7iqFa.png" />
+  <img align="left" alt="Bisrut Pyne | CodePen" width="40px" src="https://i.imgur.com/yq7iqFa.png" />
+</a>
+<a href="https://cssbattle.dev/player/the_css_king">
+  <img align="left" alt="Bisrut Pyne | CSS-Battle" width="55px" src="https://cssbattle.dev/images/logo-square.png" />
+</a>
+<a href="mailto:bisrutpyne@gmail.com">
+  <img align="left" alt="Bisrut Pyne | Mail" width="40px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" />
 </a>
 
 <br />
