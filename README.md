@@ -24,7 +24,6 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=IamBisrutPyne&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Bisruts GitHub Stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamBisrutPyne&layout=compact&theme=material-palenight" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IamBisrutPyne&repo=github-readme-stats&theme=material-palenight" />
 <a href="https://github.com/IamBisrutPyne/iambisrutpyne.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IamBisrutPyne&repo=iambisrutpyne.github.io&theme=material-palenight" />
 </a>
