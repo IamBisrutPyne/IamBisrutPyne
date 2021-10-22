@@ -1,7 +1,7 @@
 <h1>Hi there! I am <a href="https://iambisrutpyne.github.io">Bisrut</a>👋</h1>
 
-<a href="https://codepen.io/TheWebDevKing">
-  <img align="left" alt="Bisrut Pyne | CodePen" width="40px" src="https://i.imgur.com/yq7iqFa.png" />
+<a href="https://iambisrutpyne.github.io">
+  <img align="left" alt="Bisrut Pyne | Portfolio" width="40px" src="https://cdn1.iconfinder.com/data/icons/seo-and-web-development-5/32/development_website_domain_name_magnifier_magnifying_glass_loupe-512.png" />
 </a>
 <a href="https://cssbattle.dev/player/the_css_king">
   <img align="left" alt="Bisrut Pyne | CSS-Battle" width="55px" src="https://cssbattle.dev/images/logo-square.png" />
