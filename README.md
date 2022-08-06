@@ -6,6 +6,9 @@
 <a href="mailto:bisrutpyne@gmail.com">
   <img align="left" alt="Bisrut Pyne | Mail" width="40px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" />
 </a>
+<a href="https://dev.to/IamBisrutPyne">
+  <img align="left" alt="Bisrut Pyne | Mail" width="40px" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" />
+</a>
 
 <br />
 <br />
