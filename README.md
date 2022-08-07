@@ -1,9 +1,9 @@
-<h1>Hi there 👋 I'm <a href="https://iambisrutpyne.github.io">Bisrut</a></h1>
+<h1>Hi there 👋 I'm <a href="http://bisrutpyne.me">Bisrut</a></h1>
 
 <a href="https://iambisrutpyne.github.io">
   <img align="left" alt="Bisrut Pyne | Portfolio" width="40px" src="https://cdn0.iconfinder.com/data/icons/seo-and-marketing-volume-3/256/104-256.png" />
 </a>
-<a href="mailto:bisrutpyne@gmail.com">
+<a href="mailto:me@bisrutpyne.tech">
   <img align="left" alt="Bisrut Pyne | Mail" width="40px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" />
 </a>
 <a href="https://dev.to/IamBisrutPyne">
