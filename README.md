@@ -25,3 +25,5 @@
 <a href="https://github.com/IamBisrutPyne/iambisrutpyne.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IamBisrutPyne&repo=iambisrutpyne.github.io&theme=monokai" />
 </a>
+
+[![An image of @iambisrutpyne's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iambisrutpyne)](https://holopin.io/@iambisrutpyne)
