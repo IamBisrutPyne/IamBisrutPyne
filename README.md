@@ -17,7 +17,7 @@
 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=IamBisrutPyne&show_icons=true&theme=monokai" alt="Bisruts GitHub Stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamBisrutPyne&theme=monokai" />
