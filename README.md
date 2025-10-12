@@ -82,11 +82,11 @@ Bisrut Pyne | Aspiring Developer | Code ➡️ Compile ➡️ Inspire
 <br />
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamBisrutPyne&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=IamBisrutPyne&theme=radical&hide_border=false)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=IamBisrutPyne&theme=tokyonight&hide_border=false)
 
-![Trophies #1](https://github-trophies.vercel.app/?username=IamBisrutPyne&theme=monokai&no-frame=false&no-bg=false&rank=SECRET,SSS,SS,S,AAA,AA,A&margin-w=4)
+![Trophies #1](https://github-trophies.vercel.app/?username=IamBisrutPyne&theme=tokyonight&no-frame=false&no-bg=false&rank=SECRET,SSS,SS,S,AAA,AA,A&margin-w=4&row=2&column=4)
 
-<img style="align-items: center;" src="https://github-profile-trophy.vercel.app/?username=iambisrutpyne&theme=monokai&margin-w=4&title=-Followers,-Issues&rank=SSS,SS,S,AAA,AA,A,B&margin-w=4" alt="More Trophies" />
+![Trophies #2](https://github-profile-trophy.vercel.app/?username=iambisrutpyne&theme=tokyonight&margin-w=4&title=-Followers,-Issues&rank=SSS,SS,S,AAA,AA,A,B&row=2&column=3)
 
 <br/>
 
