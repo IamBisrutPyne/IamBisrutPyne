@@ -78,11 +78,15 @@ Bisrut Pyne | Aspiring Developer | Code ➡️ Compile ➡️ Inspire
 
 <div align="center">
 
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=IamBisrutPyne&show_icons=true&locale=en&theme=radical" alt="IamBisrutPyne"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamBisrutPyne&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+<br />
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamBisrutPyne&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamBisrutPyne&layout=compact&langs_count=8&theme=radical&&no-frame=false&no-bg=false"/>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=IamBisrutPyne&theme=radical&hide_border=false)
 
-<img src="https://github-trophies.vercel.app/?username=IamBisrutPyne&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+![Trophies #1](https://github-trophies.vercel.app/?username=IamBisrutPyne&theme=monokai&no-frame=false&no-bg=false&rank=SECRET,SSS,SS,S,AAA,AA,A&margin-w=4)
+
+<img style="align-items: center;" src="https://github-profile-trophy.vercel.app/?username=iambisrutpyne&theme=monokai&margin-w=4&title=-Followers,-Issues&rank=SSS,SS,S,AAA,AA,A,B&margin-w=4" alt="More Trophies" />
 
 <br/>
 
