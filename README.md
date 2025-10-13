@@ -78,11 +78,9 @@ Bisrut Pyne | Aspiring Developer | Code ➡️ Compile ➡️ Inspire
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamBisrutPyne&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamBisrutPyne&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&show=reviews,prs_merged,prs_merged_percentage)
 <br />
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamBisrutPyne&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=IamBisrutPyne&theme=tokyonight&hide_border=false)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamBisrutPyne&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=donut-vertical&langs_count=12)
 
 ![Trophies #1](https://github-trophies.vercel.app/?username=IamBisrutPyne&theme=tokyonight&no-frame=false&no-bg=false&rank=SECRET,SSS,SS,S,AAA,AA,A&margin-w=4&row=2&column=4)
 
@@ -94,6 +92,10 @@ Bisrut Pyne | Aspiring Developer | Code ➡️ Compile ➡️ Inspire
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=IamBisrutPyne&custom_title=Bisrut's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f0f6fc&area=true&hide_border=true"/>
 
 <br/>
+
+![Repo #1](https://github-readme-stats.vercel.app/api/pin/?username=IamBisrutPyne&repo=Java-Programs&theme=tokyonight&hide_border=false&show_owner=true)
+
+![Repo #2](https://github-readme-stats.vercel.app/api/pin/?username=IamBisrutPyne&repo=Universal-Code-Playground&theme=tokyonight&hide_border=false&show_owner=true)
 
 </div>
 
